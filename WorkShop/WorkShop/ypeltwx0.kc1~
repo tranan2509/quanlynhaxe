@@ -1,0 +1,66 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Drawing;
+using System.Data;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using WorkShop.DTO;
+
+namespace WorkShop
+{
+    public partial class ReturnCarRentUCForm : UserControl
+    {
+        private static ReturnCarRentUCForm _instance;
+        public static ReturnCarRentUCForm Instance
+        {
+            get
+            {
+                if (_instance == null)
+                    _instance = new ReturnCarRentUCForm();
+                return _instance;
+            }
+        }
+
+        public Panel PnlRentCar { get { return pnlRentCar; } set { pnlRentCar = value; LoadContract(); } }
+
+        private Panel pnlRentCar;
+
+        private Customer customerRent;
+        public Customer CustomerRent
+        {
+            get { return this.customerRent; }
+            set { this.customerRent = value; LoadInfoCustomerOnForm(customerRent); }
+        }
+
+        private Staff staffRent;
+        public Staff StaffRent { get { return staffRent; } set { staffRent = value; } }
+
+
+        private CarRent infoCarRent;
+        public CarRent InfoCarRent { get { return infoCarRent; } set { infoCarRent = value; LoadInfoCarRentOnFomr(InfoCarRent); } }
+
+        public int TypeRent { get { return typeRent; } set { typeRent = value; LoadTypeRent(typeRent); } }
+
+        private int typeRent;
+        public ReturnCarRentUCForm()
+        {
+            InitializeComponent();
+        }
+
+        private void btnPrevious_Click(object sender, EventArgs e)
+        {
+            if (!pnlRentCar.Controls.Contains(CustomerUCForm.Instance))
+            {
+                pnlRentCar.Controls.Add(CustomerUCForm.Instance);
+                CustomerUCForm.Instance.PnlRentCar = PnlRentCar;
+                CustomerUCForm.Instance.Dock = DockStyle.Fill;
+                CustomerUCForm.Instance.BringToFront();
+            }
+            else
+                CustomerUCForm.Instance.BringToFront();
+        }
+    }
+}

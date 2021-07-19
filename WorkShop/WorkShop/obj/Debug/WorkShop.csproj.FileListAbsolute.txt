@@ -1,0 +1,93 @@
+D:\Visual Studio 2017\2019_2020\HKII\DoAnCuoiKi\WorkShop\WorkShop\bin\Debug\WorkShop.exe.config
+D:\Visual Studio 2017\2019_2020\HKII\DoAnCuoiKi\WorkShop\WorkShop\bin\Debug\WorkShop.exe
+D:\Visual Studio 2017\2019_2020\HKII\DoAnCuoiKi\WorkShop\WorkShop\bin\Debug\WorkShop.pdb
+D:\Visual Studio 2017\2019_2020\HKII\DoAnCuoiKi\WorkShop\WorkShop\obj\Debug\WorkShop.csprojAssemblyReference.cache
+D:\Visual Studio 2017\2019_2020\HKII\DoAnCuoiKi\WorkShop\WorkShop\obj\Debug\WorkShop.Form1.resources
+D:\Visual Studio 2017\2019_2020\HKII\DoAnCuoiKi\WorkShop\WorkShop\obj\Debug\WorkShop.Properties.Resources.resources
+D:\Visual Studio 2017\2019_2020\HKII\DoAnCuoiKi\WorkShop\WorkShop\obj\Debug\WorkShop.csproj.GenerateResource.cache
+D:\Visual Studio 2017\2019_2020\HKII\DoAnCuoiKi\WorkShop\WorkShop\obj\Debug\WorkShop.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2017\2019_2020\HKII\DoAnCuoiKi\WorkShop\WorkShop\obj\Debug\WorkShop.exe
+D:\Visual Studio 2017\2019_2020\HKII\DoAnCuoiKi\WorkShop\WorkShop\obj\Debug\WorkShop.pdb
+D:\Visual Studio 2017\2019_2020\HKII\DoAnCuoiKi\WorkShop\WorkShop\bin\Debug\AForge.dll
+D:\Visual Studio 2017\2019_2020\HKII\DoAnCuoiKi\WorkShop\WorkShop\bin\Debug\AForge.Video.dll
+D:\Visual Studio 2017\2019_2020\HKII\DoAnCuoiKi\WorkShop\WorkShop\bin\Debug\AForge.xml
+D:\Visual Studio 2017\2019_2020\HKII\DoAnCuoiKi\WorkShop\WorkShop\bin\Debug\AForge.Video.xml
+D:\Visual Studio 2017\2019_2020\HKII\DoAnCuoiKi\WorkShop\WorkShop\obj\Debug\WorkShop.csproj.CopyComplete
+D:\Visual Studio 2017\2019_2020\HKII\DoAnCuoiKi\WorkShop\WorkShop\obj\Debug\WorkShop.ScanCodeForm.resources
+D:\Visual Studio 2017\2019_2020\HKII\DoAnCuoiKi\WorkShop\WorkShop\bin\Debug\AForge.Video.DirectShow.dll
+D:\Visual Studio 2017\2019_2020\HKII\DoAnCuoiKi\WorkShop\WorkShop\bin\Debug\zxing.dll
+D:\Visual Studio 2017\2019_2020\HKII\DoAnCuoiKi\WorkShop\WorkShop\bin\Debug\zxing.presentation.dll
+D:\Visual Studio 2017\2019_2020\HKII\DoAnCuoiKi\WorkShop\WorkShop\bin\Debug\AForge.Video.DirectShow.xml
+D:\Visual Studio 2017\2019_2020\HKII\DoAnCuoiKi\WorkShop\WorkShop\bin\Debug\zxing.pdb
+D:\Visual Studio 2017\2019_2020\HKII\DoAnCuoiKi\WorkShop\WorkShop\bin\Debug\zxing.xml
+D:\Visual Studio 2017\2019_2020\HKII\DoAnCuoiKi\WorkShop\WorkShop\bin\Debug\zxing.presentation.pdb
+D:\Visual Studio 2017\2019_2020\HKII\DoAnCuoiKi\WorkShop\WorkShop\bin\Debug\zxing.presentation.xml
+E:\2-2\Window code\WorkShop\WorkShop\bin\Debug\WorkShop.exe.config
+E:\2-2\Window code\WorkShop\WorkShop\obj\Debug\WorkShop.exe
+E:\2-2\Window code\WorkShop\WorkShop\obj\Debug\WorkShop.pdb
+E:\2-2\Window code\WorkShop\WorkShop\bin\Debug\WorkShop.exe
+E:\2-2\Window code\WorkShop\WorkShop\bin\Debug\WorkShop.pdb
+E:\2-2\Window code\WorkShop\WorkShop\bin\Debug\AForge.dll
+E:\2-2\Window code\WorkShop\WorkShop\bin\Debug\AForge.Video.DirectShow.dll
+E:\2-2\Window code\WorkShop\WorkShop\bin\Debug\AForge.Video.dll
+E:\2-2\Window code\WorkShop\WorkShop\bin\Debug\zxing.dll
+E:\2-2\Window code\WorkShop\WorkShop\bin\Debug\zxing.presentation.dll
+E:\2-2\Window code\WorkShop\WorkShop\bin\Debug\AForge.xml
+E:\2-2\Window code\WorkShop\WorkShop\bin\Debug\AForge.Video.xml
+E:\2-2\Window code\WorkShop\WorkShop\bin\Debug\AForge.Video.DirectShow.xml
+E:\2-2\Window code\WorkShop\WorkShop\bin\Debug\zxing.pdb
+E:\2-2\Window code\WorkShop\WorkShop\bin\Debug\zxing.xml
+E:\2-2\Window code\WorkShop\WorkShop\bin\Debug\zxing.presentation.pdb
+E:\2-2\Window code\WorkShop\WorkShop\bin\Debug\zxing.presentation.xml
+E:\2-2\Window code\WorkShop\WorkShop\obj\Debug\WorkShop.csprojResolveAssemblyReference.cache
+E:\2-2\Window code\WorkShop\WorkShop\obj\Debug\WorkShop.Form1.resources
+E:\2-2\Window code\WorkShop\WorkShop\obj\Debug\WorkShop.Properties.Resources.resources
+E:\2-2\Window code\WorkShop\WorkShop\obj\Debug\WorkShop.ScanCodeForm.resources
+E:\2-2\Window code\WorkShop\WorkShop\obj\Debug\WorkShop.TestCamFoxLearn.resources
+E:\2-2\Window code\WorkShop\WorkShop\obj\Debug\WorkShop.csproj.GenerateResource.Cache
+E:\2-2\Window code\WorkShop\WorkShop\obj\Debug\WorkShop.ParkingLot.resources
+E:\2-2\Window code\WorkShop\WorkShop\obj\Debug\WorkShop.DemoParkingLot.resources
+D:\Visual Studio 2017\2019_2020\HKII\DoAnCuoiKi\WorkShop_TeamWork\WorkShop\WorkShop\bin\Debug\WorkShop.exe.config
+D:\Visual Studio 2017\2019_2020\HKII\DoAnCuoiKi\WorkShop_TeamWork\WorkShop\WorkShop\bin\Debug\WorkShop.exe
+D:\Visual Studio 2017\2019_2020\HKII\DoAnCuoiKi\WorkShop_TeamWork\WorkShop\WorkShop\bin\Debug\WorkShop.pdb
+D:\Visual Studio 2017\2019_2020\HKII\DoAnCuoiKi\WorkShop_TeamWork\WorkShop\WorkShop\bin\Debug\AForge.dll
+D:\Visual Studio 2017\2019_2020\HKII\DoAnCuoiKi\WorkShop_TeamWork\WorkShop\WorkShop\bin\Debug\AForge.Video.DirectShow.dll
+D:\Visual Studio 2017\2019_2020\HKII\DoAnCuoiKi\WorkShop_TeamWork\WorkShop\WorkShop\bin\Debug\AForge.Video.dll
+D:\Visual Studio 2017\2019_2020\HKII\DoAnCuoiKi\WorkShop_TeamWork\WorkShop\WorkShop\bin\Debug\zxing.dll
+D:\Visual Studio 2017\2019_2020\HKII\DoAnCuoiKi\WorkShop_TeamWork\WorkShop\WorkShop\bin\Debug\zxing.presentation.dll
+D:\Visual Studio 2017\2019_2020\HKII\DoAnCuoiKi\WorkShop_TeamWork\WorkShop\WorkShop\bin\Debug\AForge.xml
+D:\Visual Studio 2017\2019_2020\HKII\DoAnCuoiKi\WorkShop_TeamWork\WorkShop\WorkShop\bin\Debug\AForge.Video.xml
+D:\Visual Studio 2017\2019_2020\HKII\DoAnCuoiKi\WorkShop_TeamWork\WorkShop\WorkShop\bin\Debug\AForge.Video.DirectShow.xml
+D:\Visual Studio 2017\2019_2020\HKII\DoAnCuoiKi\WorkShop_TeamWork\WorkShop\WorkShop\bin\Debug\zxing.pdb
+D:\Visual Studio 2017\2019_2020\HKII\DoAnCuoiKi\WorkShop_TeamWork\WorkShop\WorkShop\bin\Debug\zxing.xml
+D:\Visual Studio 2017\2019_2020\HKII\DoAnCuoiKi\WorkShop_TeamWork\WorkShop\WorkShop\bin\Debug\zxing.presentation.pdb
+D:\Visual Studio 2017\2019_2020\HKII\DoAnCuoiKi\WorkShop_TeamWork\WorkShop\WorkShop\bin\Debug\zxing.presentation.xml
+D:\Visual Studio 2017\2019_2020\HKII\DoAnCuoiKi\WorkShop_TeamWork\WorkShop\WorkShop\obj\Debug\WorkShop.csprojAssemblyReference.cache
+D:\Visual Studio 2017\2019_2020\HKII\DoAnCuoiKi\WorkShop_TeamWork\WorkShop\WorkShop\obj\Debug\WorkShop.Properties.Resources.resources
+D:\Visual Studio 2017\2019_2020\HKII\DoAnCuoiKi\WorkShop_TeamWork\WorkShop\WorkShop\obj\Debug\WorkShop.csproj.GenerateResource.cache
+D:\Visual Studio 2017\2019_2020\HKII\DoAnCuoiKi\WorkShop_TeamWork\WorkShop\WorkShop\obj\Debug\WorkShop.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2017\2019_2020\HKII\DoAnCuoiKi\WorkShop_TeamWork\WorkShop\WorkShop\obj\Debug\WorkShop.csproj.CopyComplete
+D:\Visual Studio 2017\2019_2020\HKII\DoAnCuoiKi\WorkShop_TeamWork\WorkShop\WorkShop\obj\Debug\WorkShop.exe
+D:\Visual Studio 2017\2019_2020\HKII\DoAnCuoiKi\WorkShop_TeamWork\WorkShop\WorkShop\obj\Debug\WorkShop.pdb
+D:\Visual Studio 2017\2019_2020\HKII\DoAnCuoiKi\WorkShop_TeamWork\WorkShop\WorkShop\obj\Debug\WorkShop.ContractParkingForm.resources
+D:\Visual Studio 2017\2019_2020\HKII\DoAnCuoiKi\WorkShop_TeamWork\WorkShop\WorkShop\obj\Debug\WorkShop.ParkingLotForm.resources
+D:\Visual Studio 2017\2019_2020\HKII\DoAnCuoiKi\WorkShop_TeamWork\WorkShop\WorkShop\obj\Debug\WorkShop.InfoCusomerParkingForm.resources
+D:\Visual Studio 2017\2019_2020\HKII\DoAnCuoiKi\WorkShop_TeamWork\WorkShop\WorkShop\obj\Debug\WorkShop.LoginForm.resources
+D:\Visual Studio 2017\2019_2020\HKII\DoAnCuoiKi\WorkShop_TeamWork\WorkShop\WorkShop\obj\Debug\WorkShop.StaffForm.resources
+D:\Visual Studio 2017\2019_2020\HKII\DoAnCuoiKi\WorkShop_TeamWork\WorkShop\WorkShop\obj\Debug\WorkShop.DemoParkingLot.resources
+D:\Visual Studio 2017\2019_2020\HKII\DoAnCuoiKi\WorkShop_TeamWork\WorkShop\WorkShop\obj\Debug\WorkShop.ManagerForm.resources
+D:\Visual Studio 2017\2019_2020\HKII\DoAnCuoiKi\WorkShop_TeamWork\WorkShop\WorkShop\obj\Debug\WorkShop.ListStaffForm.resources
+D:\Visual Studio 2017\2019_2020\HKII\DoAnCuoiKi\WorkShop_TeamWork\WorkShop\WorkShop\obj\Debug\WorkShop.ListCustomerForm.resources
+D:\Visual Studio 2017\2019_2020\HKII\DoAnCuoiKi\WorkShop_TeamWork\WorkShop\WorkShop\obj\Debug\WorkShop.PriceCarInParkingForm.resources
+D:\Visual Studio 2017\2019_2020\HKII\DoAnCuoiKi\WorkShop_TeamWork\WorkShop\WorkShop\obj\Debug\WorkShop.ListContractForm.resources
+D:\Visual Studio 2017\2019_2020\HKII\DoAnCuoiKi\WorkShop_TeamWork\WorkShop\WorkShop\obj\Debug\WorkShop.RevenueForm.resources
+D:\Visual Studio 2017\2019_2020\HKII\DoAnCuoiKi\WorkShop_TeamWork\WorkShop\WorkShop\obj\Debug\WorkShop.RentCarForm.resources
+D:\Visual Studio 2017\2019_2020\HKII\DoAnCuoiKi\WorkShop_TeamWork\WorkShop\WorkShop\obj\Debug\WorkShop.CustomerUCForm.resources
+D:\Visual Studio 2017\2019_2020\HKII\DoAnCuoiKi\WorkShop_TeamWork\WorkShop\WorkShop\obj\Debug\WorkShop.ListCarRentUCForm.resources
+D:\Visual Studio 2017\2019_2020\HKII\DoAnCuoiKi\WorkShop_TeamWork\WorkShop\WorkShop\obj\Debug\WorkShop.AddCarRentUCForm.resources
+D:\Visual Studio 2017\2019_2020\HKII\DoAnCuoiKi\WorkShop_TeamWork\WorkShop\WorkShop\obj\Debug\WorkShop.ContractCarRentUCForm.resources
+D:\Visual Studio 2017\2019_2020\HKII\DoAnCuoiKi\WorkShop_TeamWork\WorkShop\WorkShop\obj\Debug\WorkShop.ReturnCarRentUCForm.resources
+D:\Visual Studio 2017\2019_2020\HKII\DoAnCuoiKi\WorkShop_TeamWork\WorkShop\WorkShop\obj\Debug\WorkShop.RentAndReturnCarForm.resources
+D:\Visual Studio 2017\2019_2020\HKII\DoAnCuoiKi\WorkShop_TeamWork\WorkShop\WorkShop\obj\Debug\WorkShop.AddCarOfCompanyForm.resources
+D:\Visual Studio 2017\2019_2020\HKII\DoAnCuoiKi\WorkShop_TeamWork\WorkShop\WorkShop\obj\Debug\WorkShop.ListCarRentForm.resources
+D:\Visual Studio 2017\2019_2020\HKII\DoAnCuoiKi\WorkShop_TeamWork\WorkShop\WorkShop\obj\Debug\WorkShop.RemoveCarOfCompanyForm.resources
